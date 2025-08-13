@@ -1,5 +1,7 @@
 # JITSU_AUTO_TEST
 *** File report + video in folder REPORT
+
+
 *** Guide run testsuite
 I. TEST WEB: 
 - Run class TestRunnerWeb
